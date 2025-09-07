@@ -1,0 +1,274 @@
+Date,Region,Category,SKU,Price,Promo,Sales_Qty,Revenue,Launch_Week,Is_New
+2024-01-07,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,112,133.28,0,0
+2024-01-07,England,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,218,233.26,0,0
+2024-01-07,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,181,197.29,0,0
+2024-01-07,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,169,234.91,0,0
+2024-01-07,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,89,105.91,0,0
+2024-01-07,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,106,136.74,0,0
+2024-01-07,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,170,185.3,0,0
+2024-01-07,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,113,157.07,0,0
+2024-01-07,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,75,89.25,0,0
+2024-01-07,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,140,180.6,0,0
+2024-01-07,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,133,144.97,0,0
+2024-01-07,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,98,136.22,0,0
+2024-01-14,England,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,228,225.72,0,0
+2024-01-14,England,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,278,297.46,0,0
+2024-01-14,England,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,346,311.4,0,0
+2024-01-14,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,130,180.7,0,0
+2024-01-14,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,109,129.71,0,0
+2024-01-14,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,113,145.77,0,0
+2024-01-14,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,134,146.06,0,0
+2024-01-14,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,159,221.01,0,0
+2024-01-14,Wales,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,117,115.83,0,0
+2024-01-14,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,98,126.42,0,0
+2024-01-14,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,126,137.34,0,0
+2024-01-14,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,102,141.78,0,0
+2024-01-21,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,129,153.51,0,0
+2024-01-21,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,122,157.38,0,0
+2024-01-21,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,257,280.13,0,0
+2024-01-21,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,354,407.1,0,0
+2024-01-21,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,108,128.52,0,0
+2024-01-21,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,107,138.03,0,0
+2024-01-21,Scotland,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,340,306.0,0,0
+2024-01-21,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,165,229.35,0,0
+2024-01-21,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,90,107.1,0,0
+2024-01-21,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,112,144.48,0,0
+2024-01-21,Wales,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,266,239.4,0,0
+2024-01-21,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,101,140.39,0,0
+2024-01-28,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,125,148.75,0,0
+2024-01-28,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,156,201.24,0,0
+2024-01-28,England,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,464,417.6,0,0
+2024-01-28,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,332,381.8,0,0
+2024-01-28,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,120,142.8,0,0
+2024-01-28,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,109,140.61,0,0
+2024-01-28,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,189,206.01,0,0
+2024-01-28,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,143,198.77,0,0
+2024-01-28,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,79,94.01,0,0
+2024-01-28,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,117,150.93,0,0
+2024-01-28,Wales,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,287,258.3,0,0
+2024-01-28,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,184,211.6,0,0
+2024-02-04,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,136,161.84,0,0
+2024-02-04,England,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,231,247.17,0,0
+2024-02-04,England,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,457,411.3,0,0
+2024-02-04,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,167,232.13,0,0
+2024-02-04,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,111,132.09,0,0
+2024-02-04,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,112,144.48,0,0
+2024-02-04,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,179,195.11,0,0
+2024-02-04,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,137,190.43,0,0
+2024-02-04,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,98,116.62,0,0
+2024-02-04,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,99,127.71,0,0
+2024-02-04,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,177,192.93,0,0
+2024-02-04,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,136,189.04,0,0
+2024-02-11,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,138,164.22,0,0
+2024-02-11,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,137,176.73,0,0
+2024-02-11,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,185,201.65,0,0
+2024-02-11,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,258,296.7,0,0
+2024-02-11,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,100,119.0,0,0
+2024-02-11,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,99,127.71,0,0
+2024-02-11,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,252,274.68,0,0
+2024-02-11,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,170,236.3,0,0
+2024-02-11,Wales,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,172,170.28,0,0
+2024-02-11,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,106,136.74,0,0
+2024-02-11,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,141,153.69,0,0
+2024-02-11,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,115,159.85,0,0
+2024-02-18,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,146,173.74,0,0
+2024-02-18,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,143,184.47,0,0
+2024-02-18,England,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,378,340.2,0,0
+2024-02-18,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,190,264.1,0,0
+2024-02-18,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,97,115.43,0,0
+2024-02-18,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,129,166.41,0,0
+2024-02-18,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,194,211.46,0,0
+2024-02-18,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,139,193.21,0,0
+2024-02-18,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,93,110.67,0,0
+2024-02-18,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,214,228.98,0,0
+2024-02-18,Wales,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,258,232.2,0,0
+2024-02-18,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,222,255.3,0,0
+2024-02-25,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,126,149.94,0,0
+2024-02-25,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,163,210.27,0,0
+2024-02-25,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,210,228.9,0,0
+2024-02-25,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,167,232.13,0,0
+2024-02-25,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,92,109.48,0,0
+2024-02-25,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,145,187.05,0,0
+2024-02-25,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,194,211.46,0,0
+2024-02-25,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,127,176.53,0,0
+2024-02-25,Wales,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,151,149.49,0,0
+2024-02-25,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,185,197.95,0,0
+2024-02-25,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,136,148.24,0,0
+2024-02-25,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,128,177.92,0,0
+2024-03-03,England,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,207,204.93,0,0
+2024-03-03,England,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,258,276.06,0,0
+2024-03-03,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,197,214.73,0,0
+2024-03-03,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,194,269.66,0,0
+2024-03-03,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,114,135.66,0,0
+2024-03-03,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,164,211.56,0,0
+2024-03-03,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,201,219.09,0,0
+2024-03-03,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,123,170.97,0,0
+2024-03-03,Wales,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,179,177.21,0,0
+2024-03-03,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,93,119.97,0,0
+2024-03-03,Wales,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,286,257.4,0,0
+2024-03-03,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,225,258.75,0,0
+2024-03-10,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,128,152.32,0,0
+2024-03-10,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,108,139.32,0,0
+2024-03-10,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,194,211.46,0,0
+2024-03-10,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,146,202.94,0,0
+2024-03-10,England,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,154,167.86,10,1
+2024-03-10,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,121,143.99,0,0
+2024-03-10,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,74,95.46,0,0
+2024-03-10,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,156,170.04,0,0
+2024-03-10,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,112,155.68,0,0
+2024-03-10,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,152,165.68,10,1
+2024-03-10,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,83,98.77,0,0
+2024-03-10,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,82,105.78,0,0
+2024-03-10,Wales,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,280,252.0,0,0
+2024-03-10,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,207,238.05,0,0
+2024-03-10,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,87,94.83,10,1
+2024-03-17,England,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,245,242.55,0,0
+2024-03-17,England,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,182,194.74,0,0
+2024-03-17,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,171,186.39,0,0
+2024-03-17,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,124,172.36,0,0
+2024-03-17,England,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,228,205.2,10,1
+2024-03-17,Scotland,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,163,161.37,0,0
+2024-03-17,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,108,139.32,0,0
+2024-03-17,Scotland,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,258,232.2,0,0
+2024-03-17,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,113,157.07,0,0
+2024-03-17,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,99,107.91,10,1
+2024-03-17,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,77,91.63,0,0
+2024-03-17,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,57,73.53,0,0
+2024-03-17,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,144,156.96,0,0
+2024-03-17,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,133,184.87,0,0
+2024-03-17,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,77,83.93,10,1
+2024-03-24,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,157,186.83,0,0
+2024-03-24,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,92,118.68,0,0
+2024-03-24,England,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,394,354.6,0,0
+2024-03-24,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,149,207.11,0,0
+2024-03-24,England,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,131,142.79,10,1
+2024-03-24,Scotland,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,215,212.85,0,0
+2024-03-24,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,63,81.27,0,0
+2024-03-24,Scotland,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,269,242.1,0,0
+2024-03-24,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,233,267.95,0,0
+2024-03-24,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,190,171.0,10,1
+2024-03-24,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,73,86.87,0,0
+2024-03-24,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,78,100.62,0,0
+2024-03-24,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,155,168.95,0,0
+2024-03-24,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,223,256.45,0,0
+2024-03-24,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,80,87.2,10,1
+2024-03-31,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,119,141.61,0,0
+2024-03-31,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,117,150.93,0,0
+2024-03-31,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,165,179.85,0,0
+2024-03-31,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,328,377.2,0,0
+2024-03-31,England,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,143,155.87,10,1
+2024-03-31,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,116,138.04,0,0
+2024-03-31,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,102,131.58,0,0
+2024-03-31,Scotland,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,266,239.4,0,0
+2024-03-31,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,143,198.77,0,0
+2024-03-31,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,114,124.26,10,1
+2024-03-31,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,77,91.63,0,0
+2024-03-31,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,81,104.49,0,0
+2024-03-31,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,139,151.51,0,0
+2024-03-31,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,188,216.2,0,0
+2024-03-31,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,105,114.45,10,1
+2024-04-07,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,134,159.46,0,0
+2024-04-07,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,82,105.78,0,0
+2024-04-07,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,192,209.28,0,0
+2024-04-07,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,154,214.06,0,0
+2024-04-07,England,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,145,158.05,10,1
+2024-04-07,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,117,139.23,0,0
+2024-04-07,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,89,114.81,0,0
+2024-04-07,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,232,252.88,0,0
+2024-04-07,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,113,157.07,0,0
+2024-04-07,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,139,151.51,10,1
+2024-04-07,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,83,98.77,0,0
+2024-04-07,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,48,61.92,0,0
+2024-04-07,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,81,88.29,0,0
+2024-04-07,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,173,198.95,0,0
+2024-04-07,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,163,146.7,10,1
+2024-04-14,England,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,229,226.71,0,0
+2024-04-14,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,82,105.78,0,0
+2024-04-14,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,107,116.63,0,0
+2024-04-14,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,281,323.15,0,0
+2024-04-14,England,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,265,238.5,10,1
+2024-04-14,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,118,140.42,0,0
+2024-04-14,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,58,74.82,0,0
+2024-04-14,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,146,159.14,0,0
+2024-04-14,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,71,98.69,0,0
+2024-04-14,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,197,177.3,10,1
+2024-04-14,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,93,110.67,0,0
+2024-04-14,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,70,90.3,0,0
+2024-04-14,Wales,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,222,199.8,0,0
+2024-04-14,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,84,116.76,0,0
+2024-04-14,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,138,124.2,10,1
+2024-04-21,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,103,122.57,0,0
+2024-04-21,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,110,141.9,0,0
+2024-04-21,England,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,314,282.6,0,0
+2024-04-21,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,169,234.91,0,0
+2024-04-21,England,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,162,176.58,10,1
+2024-04-21,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,140,166.6,0,0
+2024-04-21,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,47,60.63,0,0
+2024-04-21,Scotland,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,253,227.7,0,0
+2024-04-21,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,107,148.73,0,0
+2024-04-21,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,198,178.2,10,1
+2024-04-21,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,80,95.2,0,0
+2024-04-21,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,72,92.88,0,0
+2024-04-21,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,152,165.68,0,0
+2024-04-21,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,117,162.63,0,0
+2024-04-21,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,96,104.64,10,1
+2024-04-28,England,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,224,221.76,0,0
+2024-04-28,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,86,110.94,0,0
+2024-04-28,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,156,170.04,0,0
+2024-04-28,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,259,297.85,0,0
+2024-04-28,England,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,121,131.89,10,1
+2024-04-28,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,111,132.09,0,0
+2024-04-28,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,78,100.62,0,0
+2024-04-28,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,133,144.97,0,0
+2024-04-28,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,284,326.6,0,0
+2024-04-28,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,107,116.63,10,1
+2024-04-28,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,89,105.91,0,0
+2024-04-28,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,95,122.55,0,0
+2024-04-28,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,156,170.04,0,0
+2024-04-28,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,103,143.17,0,0
+2024-04-28,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,90,98.1,10,1
+2024-05-05,England,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,243,240.57,0,0
+2024-05-05,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,123,158.67,0,0
+2024-05-05,England,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,323,290.7,0,0
+2024-05-05,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,171,237.69,0,0
+2024-05-05,England,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,138,150.42,10,1
+2024-05-05,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,89,105.91,0,0
+2024-05-05,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,142,151.94,0,0
+2024-05-05,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,147,160.23,0,0
+2024-05-05,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,110,152.9,0,0
+2024-05-05,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,107,116.63,10,1
+2024-05-05,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,75,89.25,0,0
+2024-05-05,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.07,1,151,161.57,0,0
+2024-05-05,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,166,180.94,0,0
+2024-05-05,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,84,116.76,0,0
+2024-05-05,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,84,91.56,10,1
+2024-05-12,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,109,129.71,0,0
+2024-05-12,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,97,125.13,0,0
+2024-05-12,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,125,136.25,0,0
+2024-05-12,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,224,257.6,0,0
+2024-05-12,England,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,248,223.2,10,1
+2024-05-12,Scotland,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,99,117.81,0,0
+2024-05-12,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,102,131.58,0,0
+2024-05-12,Scotland,Chocolate Bar,Dairy Milk Classic 45g,0.9,1,273,245.7,0,0
+2024-05-12,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,104,144.56,0,0
+2024-05-12,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,126,137.34,10,1
+2024-05-12,Wales,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,147,145.53,0,0
+2024-05-12,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,75,96.75,0,0
+2024-05-12,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,134,146.06,0,0
+2024-05-12,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,186,213.9,0,0
+2024-05-12,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,84,91.56,10,1
+2024-05-19,England,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,110,130.9,0,0
+2024-05-19,England,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,94,121.26,0,0
+2024-05-19,England,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,155,168.95,0,0
+2024-05-19,England,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,118,164.02,0,0
+2024-05-19,England,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,185,166.5,10,1
+2024-05-19,Scotland,Chocolate Bar,Dairy Milk Almond 45g,0.99,1,180,178.2,0,0
+2024-05-19,Scotland,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,85,109.65,0,0
+2024-05-19,Scotland,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,128,139.52,0,0
+2024-05-19,Scotland,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.39,0,95,132.05,0,0
+2024-05-19,Scotland,Chocolate Bar,New Dairy Milk Crunch 45g,1.09,0,120,130.8,10,1
+2024-05-19,Wales,Chocolate Bar,Dairy Milk Almond 45g,1.19,0,87,103.53,0,0
+2024-05-19,Wales,Chocolate Bar,Dairy Milk Caramel 45g,1.29,0,58,74.82,0,0
+2024-05-19,Wales,Chocolate Bar,Dairy Milk Classic 45g,1.09,0,84,91.56,0,0
+2024-05-19,Wales,Chocolate Bar,Dairy Milk Fruit & Nut 45g,1.15,1,171,196.65,0,0
+2024-05-19,Wales,Chocolate Bar,New Dairy Milk Crunch 45g,0.9,1,175,157.5,10,1
