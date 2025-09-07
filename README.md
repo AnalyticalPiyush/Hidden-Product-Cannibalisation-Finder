@@ -29,10 +29,10 @@ When New Dairy Milk Crunch 45g launched, management wanted to know:
 - Net portfolio growth was positive but smaller than headline sales suggested.
 
 ## Deliverables
-- [Python Notebook](notebooks/cannibalisation_analysis.ipynb)
-- [Power BI Dashboard](dashboard/Cannibalisation_Dashboard.pbix)
+- [Python Notebook](Dairymilk.ipynb)
+- [Power BI Dashboard](Cadbury_Cannibalisation.pbix)
 - [Case Study Slides](slides/Case_Study_Presentation.pdf)
-- [Dataset](data/dairy_milk_cannibalisation_20w.csv)
+- [Dataset](dairymilk_cannibalisation_20w.csv)
 
 ## Business Value
 This project provides FMCG managers with a framework to:
@@ -41,7 +41,7 @@ This project provides FMCG managers with a framework to:
 - Protect portfolio profitability while innovating
 
 ## Preview
-![Dashboard Preview](<img width="1241" height="699" alt="Screenshot 2025-09-02 at 13 51 50" src="https://github.com/user-attachments/assets/763d2327-f53b-493a-a074-7298c4321f93" />
-)
+<img width="1241" height="699" alt="Screenshot 2025-09-02 at 13 51 50" src="https://github.com/user-attachments/assets/01a8cdfe-e7d3-461d-b4a9-7cde068ed41c" />
+
 
 ---
