@@ -41,7 +41,8 @@ This project provides FMCG managers with a framework to:
 - Protect portfolio profitability while innovating
 
 ## Preview
-<img width="1241" height="699" alt="Screenshot 2025-09-02 at 13 51 50" src="https://github.com/user-attachments/assets/01a8cdfe-e7d3-461d-b4a9-7cde068ed41c" />
+<img width="1223" height="688" alt="Screenshot 2025-09-16 at 20 34 15" src="https://github.com/user-attachments/assets/3a106349-5ed1-4506-bdcd-a0eccd8c7174" />
+
 
 
 ---
