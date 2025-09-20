@@ -47,6 +47,7 @@ Deliverables produced:
 - Nearly **60% of Crunch’s 4.65K sales** were cannibalised from existing SKUs rather than being truly incremental.  
 - Net growth was positive but significantly smaller than suggested by Crunch’s headline sales performance.  
 - Regionally, England showed stable performance, while Wales and Scotland experienced sharper declines in existing SKU sales.  
+<img width="1223" height="688" alt="Screenshot 2025-09-16 at 20 34 15" src="https://github.com/user-attachments/assets/2d88ad9c-ed0a-41f3-bb32-cf9dec0eb8ee" />
 
 ---
 
